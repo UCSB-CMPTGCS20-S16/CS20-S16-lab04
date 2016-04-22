@@ -168,8 +168,16 @@ If there are any parts that don't make sense to you, be sure to ask the TA/Instr
 
 If you see that you've done everything correctly, then you are ready to submit.
 
-Step 6: Submit your assignment using the turnin program
+Step 6: Submit your assignment via submit.cs
 -------------------------------------------------------
+
+Here's the link: https://submit.cs.ucsb.edu/form/project/471/submission
+
+If you happen to be working on CSIL, you can also submit by typing
+
+```
+~submit/submit -p 471 lab02Funcs.py lab04Funcs.py
+```
 
 Evaluation and Grading
 ======================
