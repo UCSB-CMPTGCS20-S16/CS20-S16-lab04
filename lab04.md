@@ -29,8 +29,11 @@ We are now going to get two files from the web.
 Step 1: Copy some code into `lab04Funcs.py`
 -----------------------------------------
 
-We are going to copy some code from [lab04Funcs.py](http://www.cs.ucsb.edu/~pconrad/cs8/14S/labs/lab04/lab04Funcs.py)
+We are going to copy some code from `lab04Funcs.py`
 into a file with the same name under your `~/cs20/lab04` folder
+
+* As a plain file: [lab04Funcs.py](https://raw.githubusercontent.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/master/lab04Funcs.py)
+* On github: [lab04Funcs.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/blob/master/lab04Funcs.py)
 
 In IDLE, select "File=&gt;New Window" to open a new "untitled" window for Python code.
 
@@ -38,21 +41,21 @@ When it comes up, click and drag the window by its title bar over to the right o
 
 Now, open this link. (You may want to "right click", or on Mac, "control-click", to open it in a new window or tab.)
 
-[lab04Funcs.py](http://www.cs.ucsb.edu/~pconrad/cs8/14S/labs/lab04/lab04Funcs.py>)
-
 Use the "Save As" option to save that file in the `~/cs20/lab04` folder with the name `lab04Funcs.py`
 
 Step 2: Copy some more code from `lab04Tests.py`
 -----------------------------------------------
 
-
 Now we are going to do the same thing again, with a second file of Python code.
 
+We are going to copy some code from `lab04Tests.py`
+into a file with the same name under your `~/cs20/lab04` folder
 
-Open this web link: [lab04Tests.py](http://www.cs.ucsb.edu/~pconrad/cs8/14S/labs/lab04/lab04Tests.py)
+* As a plain file: [lab04Tests.py](https://raw.githubusercontent.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/master/lab04Tests.py)
+* On github: [lab04Tests.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/blob/master/lab04Tests.py)
 
 * You may want to "right click", or on Mac, "control-click", to open it in a new window or tab.
-* We want to copy code from that version of lab04Tests.py into a file with the same name under your `~/cs20/lab04` folder.
+* We want to copy code from that version of `lab04Tests.py` into a file with the same name under your `~/cs20/lab04` folder.
 
 In IDLE, select "File=&gt;New Window" *again* to open *yet another* new "untitled" window for Python code.
 
