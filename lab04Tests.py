@@ -240,7 +240,7 @@ class TestLab04Functions(unittest.TestCase):
 def runTestsWithPrefix(testFile,prefix):
     """
     run only tests from testFile with a certain prefix
-    Example: runTestsWithPrefix("lab02Tests.py","test_isPrimaryColor")
+    Example: runTestsWithPrefix("lab03Tests.py","test_isPrimaryColor")
     """
     loader = unittest.TestLoader()
     loader.testMethodPrefix = prefix
