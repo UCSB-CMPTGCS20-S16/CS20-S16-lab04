@@ -7,7 +7,8 @@ More practice with writing functions and tests
 In this lab, we continue practicing writing functions and tests, in
 the same style as some of our previous labs.
 
-The focus will be on min and max, and index vs. value.
+The difference is that the functions we are writing will be a bit more
+challenging.
 
 You may work individually, OR in a pair, as you see fit.
 
@@ -17,23 +18,22 @@ Step by Step
 Step 0: Register as either working alone, or working in a pair
 --------------------------------------------------------------
 
-Make a directory or folder for lab05.  We suggest `~/cs20/lab05`,
+Make a directory or folder for lab04.  We suggest `~/cs20/lab04`,
 which as you may recall, means:
 
 * a `cs20` folder inside your home folder
-* then, a `lab05` folder inside that.
+* then, a `lab04` folder inside that.
 
 We are now going to get two files from the web.
 
-Step 1: Copy some code into `lab05Funcs.py`
+Step 1: Copy some code into `lab04Funcs.py`
 -----------------------------------------
 
-We are going to copy some code from `lab05Funcs.py`
-into a file with the same name under your `~/cs20/lab05` folder
+We are going to copy some code from `lab04Funcs.py`
+into a file with the same name under your `~/cs20/lab04` folder
 
-@@@@@ UPDATE LINKS
-* As a plain file: [lab05Funcs.py](https://raw.githubusercontent.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/master/lab04Funcs.py)
-* On github: [lab05Funcs.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/blob/master/lab04Funcs.py)
+* As a plain file: [lab04Funcs.py](https://raw.githubusercontent.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/master/lab04Funcs.py)
+* On github: [lab04Funcs.py on github](https://github.com/UCSB-CMPTGCS20-S16/CS20-S16-lab04/blob/master/lab04Funcs.py)
 
 In IDLE, select "File=&gt;New Window" to open a new "untitled" window for Python code.
 
@@ -41,13 +41,9 @@ When it comes up, click and drag the window by its title bar over to the right o
 
 Now, open this link. (You may want to "right click", or on Mac, "control-click", to open it in a new window or tab.)
 
-Use the "Save As" option to save that file in the `~/cs20/lab05` folder with the name `lab05Funcs.py`
+Use the "Save As" option to save that file in the `~/cs20/lab04` folder with the name `lab04Funcs.py`
 
-
-@@@@@@THIS IS WHERE I AM
-
-
-Step 2: Copy some more code from `lab05Tests.py`
+Step 2: Copy some more code from `lab04Tests.py`
 -----------------------------------------------
 
 Now we are going to do the same thing again, with a second file of Python code.
