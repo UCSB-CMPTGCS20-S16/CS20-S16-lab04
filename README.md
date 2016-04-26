@@ -65,25 +65,25 @@ Use the "Save As" option to save that file in the`~/cs20/lab04` folder with the 
 
 Remember that upper vs. lower case matter. Save it again if you didn't get it exactly right the first time, and use the `rm` command to remove (delete) any files that are in the wrong place.
 
-Once you see that you have lab04Funcs.py and lab04Tests.py under your `~/cs20/lab04` directory, you are good to move on to the next step.
+Once you see that you have `lab04Funcs.py` and `lab04Tests.py` under your `~/cs20/lab04` directory, you are good to move on to the next step.
 
 Step 3: Importing functions from our lab02 file
 -----------------------------------------------
 
-Take a look inside your lab04Funcs.py file, and you'll see these two lines near the top:
+Take a look inside your `lab04Funcs.py` file, and you'll see these two lines near the top:
 
     from lab02Funcs import isList
     from lab02Funcs import isSimpleNumeric
 
 What we are doing here is pulling in two functions from our lab02 work.
 
-We are going to NEED an isList function and an isSimpleNumeric function to do the work for lab04. But, we don't want to have to write those functions from scratch.
+We are going to NEED an `isList` function and an `isSimpleNumeric` function to do the work for lab04. But, we don't want to have to write those functions from scratch.
 
-So we can REUSE the code. All we have to do is copy over the lab02Funcs.py file from our lab02 directory into our lab04 directory.
+So we can REUSE the code. All we have to do is copy over the `lab02Funcs.py` file from our lab02 directory into our lab04 directory.
 
-So, make a copy of your lab02Funcs.py from the earlier lab, and put it in the same folder/directory with your lab04Funcs.py and lab04Tests.py files.
+So, make a copy of your `lab02Funcs.py` from the earlier lab, and put it in the same folder/directory with your `lab04Funcs.py` and `lab04Tests.py` files.
 
-When you've copied the lab02Funcs.py file over, and you see that you have all three files that we are going to need for this week's lab, you can get started on the programming part.
+When you've copied the `lab02Funcs.py` file over, and you see that you have all three files that we are going to need for this week's lab, you can get started on the programming part.
 
 Step 4: Fixing function stubs, adding functions, adding tests
 -------------------------------------------------------------
@@ -94,7 +94,7 @@ These allow us to "test the test" to make sure that when the function is bogus, 
 
 If you look through the `lab04Funcs.py` file, you will see several function definitions that are "stub" versions.
 
-Run the lab04Tests.py file, and you'll see that many of the tests are failing, because the function in question returns the string "stub" instead of the answer that it should.
+Run the `lab04Tests.py` file, and you'll see that many of the tests are failing, because the function in question returns the string "stub" instead of the answer that it should.
 
 Go through the file, and replace the stubs with correct values.
 
@@ -183,12 +183,12 @@ Evaluation and Grading
 ======================
 
 -   lab04 directory submitted (10 pts) and contains:
-    -   lab02Funcs.py (5 pts)
-    -   lab04Funcs.py (5 pts)
+    -   `lab02Funcs.py` (5 pts)
+    -   `lab04Funcs.py` (5 pts)
 
 <!-- -->
 
--   In lab04Funcs.py:
+-   In `lab04Funcs.py`:
     -   name(s) at top (10 pts)
     -   (15 pts) corrected problems with `notStringContainingE(word)` so that it passes tests
     -   (15 pts) corrected problems with `hasNoX(word)` so that it passes tests
