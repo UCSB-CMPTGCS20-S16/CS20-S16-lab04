@@ -158,6 +158,8 @@ OR:
 
 ### Step 5b: Check your lab against the grading rubric
 
+**Again, if you are in the CCS version of the course, this section and the grading rubric at the bottom are provided just to give you an idea of what might be considered important in grading if you decide to take other computer science courses in the future, and so you can use it as a checklist for completion.**
+
 To maximize your grade, it is good to check your OWN lab against the SAME criteria the TA and instructor will use to grade it—BEFORE you submit it!
 
 Open these lab instructions in a second browser window. Scroll down to the bottom of the lab, to the grading section.
@@ -213,10 +215,6 @@ Evaluation and Grading
     -   following instructions
     -   submitting work on time
     -   anything else specified in the instructions
-
-<b>If you finish both lab03 and lab04 during this week's lab</b>
-
--   Then you are amazing! Turn in your homework, and have a nice day!
 
 <hr>
 Copyright 2014,2015, Phillip T. Conrad, CS Dept, UC Santa Barbara. Permission to copy for non-commercial, non-profit, educational purposes granted, provided appropriate credit is given; all other rights reserved.
