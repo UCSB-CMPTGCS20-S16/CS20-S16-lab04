@@ -101,7 +101,6 @@ Go through the file, and replace the stubs with correct values.
 In addition, you'll also find:
 
 -   several places in `lab04Funcs.py` where there are comments with "@@@" signs that tell you to add new function definitions.
--   several places in lab04Tests.py where there are comments with "@@@" signs that tell you to add new test cases
 
 Follow all of the instructions.
 
@@ -115,7 +114,6 @@ When you have:
 
 -   fixed all the stubs, and the tests cases pass
 -   added all the functions you are supposed to add
--   added all the test cases you are supposed to add
 
 Then you are ready to submit!
 
@@ -184,10 +182,9 @@ If you happen to be working on CSIL, you can also submit by typing
 Evaluation and Grading
 ======================
 
--   lab04 directory submitted (15 pts) and contains:
-    -   lab03Funcs.py (5 pts)
+-   lab04 directory submitted (10 pts) and contains:
+    -   lab02Funcs.py (5 pts)
     -   lab04Funcs.py (5 pts)
-    -   lab04Tests.py (5 pts)
 
 <!-- -->
 
